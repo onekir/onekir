@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alexander.
+- 👀 I’m interested in front-end development and app development. Now I work in the field of geographic information systems as a project manager.
+- 🌱 I’m currently learning JS, HTML and CSS at JetBrains academy (HyperSkill).
+- 💞️ I’m looking to collaborate on projects, that are connected with maps, blockchain and neural networks.
